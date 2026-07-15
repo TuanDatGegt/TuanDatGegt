@@ -117,13 +117,11 @@ Python • SQL Server • Power BI • Plotly • Machine Learning
 
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Activity
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TuanDatGegt&show_icons=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuanDatGegt&layout=compact"/>
-
-<img src="https://streak-stats.demolab.com?user=TuanDatGegt"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TuanDatGegt&theme=default" alt="GitHub Streak" />
+</p>
 
 ---
 
