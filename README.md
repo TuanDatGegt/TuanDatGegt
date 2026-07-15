@@ -91,7 +91,7 @@ I'm currently seeking **AI Engineer**, **Generative AI Engineer**, or **Machine 
 
 # 🚀 Featured Projects
 
-## 🩺 [Medical RAG Chatbot – Kidney Cancer QA](https://github.com/TuanDatGegt/kidney-cancer-dataset-project)
+## 🩺 [Medical RAG Chatbot – Kidney Cancer QA](https://github.com/TuanDatGegt/-kidney-cancer-dataset-project)
 
 End-to-end Retrieval-Augmented Generation system for medical question answering.
 
