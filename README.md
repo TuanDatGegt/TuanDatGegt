@@ -140,8 +140,7 @@ Research implementation of Bayesian Cluster Validity Index.
 
 ---
 
-## 📊 [Football Analytics Dashboard](https://github.com/TuanDatGegt/football-analytics-dashboard)
-
+## 📊 [Football Analytics Dashboard](https://github.com/TuanDatGegt/football-data-visualization-and-analysis-dashboard)
 Interactive dashboard for football analytics.
 
 - Built ETL pipeline.
